@@ -48,6 +48,10 @@ namespace SampleConsoleAppliocation
         {
             Console.WriteLine("Test10 Method");
         }
+        protected void Test11()
+        {
+            Console.WriteLine("Test11 Method");
+        }
     }
     class Class2
     {
